@@ -1,15 +1,16 @@
-id: opecha:P000292
+id: P000292
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W740
   title: འདུལ་བའི་གླེང་འབུམ་ཆེན་མོ།
-  volume:
+  author: ''
+  volumes:
     373d5307d03c42e0bdeb8002996f149e:
       image_group_id: I2DB57600
       title: Volume 1 of 'dul ba'i gleng 'bum chen mo
       volume_number: 1
       total_pages: 1112
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འདུལ་བའི་གླེང་འབུམ་ཆེན་མོ།
   author: ''
